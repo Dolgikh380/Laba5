@@ -12,3 +12,4 @@ C:\Users\tema-\VSC\Laba5\Laba5\obj\Debug\net8.0\refint\Laba5.dll
 C:\Users\tema-\VSC\Laba5\Laba5\obj\Debug\net8.0\Laba5.pdb
 C:\Users\tema-\VSC\Laba5\Laba5\obj\Debug\net8.0\Laba5.genruntimeconfig.cache
 C:\Users\tema-\VSC\Laba5\Laba5\obj\Debug\net8.0\ref\Laba5.dll
+C:\Users\tema-\VSC\Laba5\Laba5\obj\Debug\net8.0\Laba5.sourcelink.json

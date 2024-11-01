@@ -13,4 +13,15 @@ public Fruit(string geograph, string name, double price,string forma){
     this.price=price;
     this.forma=forma;
 }
+public string getGeograph(){
+    return geograph;
+}
+public double getPrice(){
+    return price;
+}
+public virtual void DisplayInfo()
+ {
+ Console.WriteLine($"растет в: {geograph}, Название : {name}, Цена : {price}, Форма: {forma}");
+ }
+
 }
